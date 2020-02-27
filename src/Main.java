@@ -1,5 +1,11 @@
-
-
+/**
+ * @author Marco Ramirez 19588
+ * @author Estefania Barrio 
+ * @version FINAL
+ * 
+ */
+//Algoritmos y estructura de datos 
+//Hoja de trabajo 4
 import java.io.File;
 import java.io.*;
 import java.util.Scanner;
